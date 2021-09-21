@@ -18,7 +18,10 @@ List of features ready and TODOs for future development
 * View foods for User. 
 * Add food to the cart. 
 * Get bill form Admin.
-*  Updates the food details.
+* Updates the food details.
+
+
+
 To-do list:
 * Add new modules like Supervisor, Cheff
 *  Allow customers to customize food orders and reservation system 
