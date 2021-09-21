@@ -13,12 +13,12 @@ nline Restaurant Management System” is a web application. This system is devel
 ## Features
 
 List of features ready and TODOs for future development
-* Create a new User information. 
-* Edit User information. 
-* View foods for User. 
-* Add food to the cart. 
-* Get bill form Admin.
-* Updates the food details.
+* Customer will be able to add or remove/add order from the cart.
+* After placing the order costomer can cancel the order.
+* Once the order is received, Kitchen master will be able to acknowledge it by clicking on serving.
+* Admin can remove/add the dishes, also admin will be able to add/remove kitchen/supervisor.
+* For any help customer will raise a ticket for help, supervisor will get a notification and acknowledge.
+
 
 
 
