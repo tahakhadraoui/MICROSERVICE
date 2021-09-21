@@ -6,9 +6,15 @@ nline Restaurant Management System” is a web application. This system is devel
 
 ## Technologies Used
 
-* Tech 1 - Angular/CSS 
-* Tech 2 - Spring Boot, Spring JPA 
-* Tech 3 - MySQL Platforms - Eclipse IDE , MySQL Workbench , VisualStudio0
+*  Angular
+*  Spring Boot, Spring JPA 
+*  MySQL 
+*  Eclipse IDE 
+*  HTML
+*  CSS
+*  Hibernate
+*  Spring Boot
+
 
 ## Features
 
