@@ -34,7 +34,7 @@ To-do list:
 *  Allow to save payment details for future use 
 *  Allow to process an order as a Guest
 ## Getting Started
- git remote and origin
+ git remote and origin https://github.com/shiv0899/Restaurant-Management-System-Angular
  Compile and run java code through tomcat server Run code in eclipse IDE
 
 Compile Angular in command prompt or Visula Studio and run that project on localhost 4200 Usage Decreases work load Save time Customer can easily order food Can easily track sale information
